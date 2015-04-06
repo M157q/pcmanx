@@ -31,6 +31,7 @@ pcmanx-gtk2.spec
 pcmanx.desktop
 src/pcmanx
 stamp-h1
+.dirstamp
 
 # compiling output
 *.dat
